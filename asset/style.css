@@ -1,0 +1,118 @@
+body{
+background: rgb(224, 203, 203);
+color: #fff;
+}
+
+.wrapper {
+    margin-bottom: 20px;
+}
+
+.header-top {
+    background: #b2d9e6;
+}
+
+.navbar-inverse{
+    background-color: #b0b0b6;
+    
+}
+
+.navbar-dark .navbar-nav  {
+    color: black;
+}
+
+.navbar-dark .navbar-nav .nav-link {
+    color: black;
+}
+
+.navbar-dark .navbar-nav .nav-link:hover{
+    color: #f06428;
+     background: transparent;
+}
+
+.navbar-dark .navbar-brand {
+    color: #000;
+}
+
+.navigation-bar{
+ margin-top: 2px;
+}
+
+.right-header-logo img {
+    width: 100%;
+    border: 1px solid gray;
+    height: 100px;
+}
+.profile-image img{
+    padding: 5px;
+    margin-top: 10px;
+    width: 100px;
+    border-radius: 50%;
+}
+
+.carousel-item img{
+    height: 200px;
+    width: 70%;
+    margin-left: 150px;
+}
+
+.carousel-inner {
+    background: #5f5d5d;
+}
+
+.container-sidebar{
+   
+    background: #e9e9e9;
+    color: #000;
+}
+
+a.list-group-item {
+    margin-right: 5px;
+}
+
+.sidebar{
+    padding-left: 20px;
+}
+.sidebar h3{
+    border: 1px solid gay;
+    background: #8d6262;
+    text-align: center;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin-top: 2px;
+}
+
+
+.post {
+    border: 1px solid gray;
+    padding: 10px;
+    margin-top: 10px;
+}
+
+.post-header{
+    background: antiquewhite;
+    border: 5px solid #fff176;
+    padding: 10px;
+}
+
+.post-content img{
+    height: 250px;
+    width: 100%;
+}
+
+.post-footer{
+    margin-top: 20px;
+}
+
+.footer-top{
+    padding: 20px;
+    background: antiquewhite;
+    text-align: center;
+}
+
+.footer-bottom{
+    text-align: center;
+    background: #737373;
+    padding: 10px;
+}
+ 
+
